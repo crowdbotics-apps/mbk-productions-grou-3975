@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT mbk_productions_grou_3975.wsgi:application
